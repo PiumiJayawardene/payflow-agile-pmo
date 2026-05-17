@@ -183,8 +183,6 @@ The roadmap is documented in:
 
 `roadmap/q1_roadmap.md`
 
-If a PNG version is added, it can be displayed here:
-
 
 ![Q1 Delivery Roadmap](roadmap/q1_roadmap.png)
 
