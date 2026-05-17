@@ -185,9 +185,9 @@ The roadmap is documented in:
 
 If a PNG version is added, it can be displayed here:
 
-```markdown
+
 ![Q1 Delivery Roadmap](roadmap/q1_roadmap.png)
-```
+
 
 ---
 
